@@ -1,0 +1,18 @@
+[1226/035536.622:ERROR:process_info.cc(359)] UncheckedAllocate
+[1226/035536.696:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Admin\AppData\Local\Temp\scoped_dir9876_1718241047\Crashpad\attachments\16f47a32-b9db-4983-a27a-fa6ee7d7faf6: The system cannot find the path specified. (0x3)
+[1226/041450.435:ERROR:process_info.cc(359)] UncheckedAllocate
+[1226/041450.435:ERROR:process_info.cc(359)] UncheckedAllocate
+[1226/041450.535:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Admin\AppData\Local\Temp\scoped_dir21240_317592169\Crashpad\attachments\202d32e8-7281-4f2a-af9a-a807382548cd: The system cannot find the path specified. (0x3)
+[1226/041451.127:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Admin\AppData\Local\Temp\scoped_dir21240_317592169\Crashpad\reports\8d08c533-9b49-4fd7-9fe2-5abdf360d95d.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[1226/141420.645:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Admin\AppData\Local\Temp\scoped_dir25336_2020114435\Crashpad\attachments\a1cc7f3a-ef82-45da-81a4-2a8b9b50915d: The system cannot find the path specified. (0x3)
+[1226/142445.377:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1226/143317.318:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1226/150801.615:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1226/193742.191:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1226/201544.094:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1226/205002.027:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1226/210200.520:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1227/003253.078:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Admin\AppData\Local\Temp\scoped_dir6044_1344960699\Crashpad\attachments\ea474fff-1f48-4413-bbb2-f984ba5ccf6f: The system cannot find the path specified. (0x3)
+[1227/003259.291:ERROR:process_info.cc(359)] UncheckedAllocate
+[1229/121559.323:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1229/122135.141:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
