@@ -1,0 +1,1 @@
+This is an automation script for testing searching and booking flights functionality in Expedia website using multiple browsers. It is implemented in the Page Object Model with data taken from the excel. Properties file was utilized to store driver details and xpath. Reporting was performed using Extent Reports.
